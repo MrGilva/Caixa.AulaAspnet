@@ -1,0 +1,5 @@
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\bin\Debug\Caixa.AulaAspnet.Dados.dll
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\bin\Debug\Caixa.AulaAspnet.Dados.pdb
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\obj\Debug\Caixa.AulaAspnet.Dados.csprojResolveAssemblyReference.cache
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\obj\Debug\Caixa.AulaAspnet.Dados.dll
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\obj\Debug\Caixa.AulaAspnet.Dados.pdb

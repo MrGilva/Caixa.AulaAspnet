@@ -1,0 +1,15 @@
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\bin\Debug\Caixa.AulaAspnet.Dados.dll
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\bin\Debug\Caixa.AulaAspnet.Dados.pdb
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\obj\Debug\Caixa.AulaAspnet.Dados.dll
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\obj\Debug\Caixa.AulaAspnet.Dados.pdb
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\bin\Debug\Caixa.AulaAspnet.Dados.dll.config
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\bin\Debug\EntityFramework.dll
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\bin\Debug\EntityFramework.SqlServer.dll
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\bin\Debug\EntityFramework.xml
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\bin\Debug\EntityFramework.SqlServer.xml
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\bin\Debug\Caixa.AulaAspnet.Entidades.dll
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\bin\Debug\Caixa.AulaAspnet.Entidades.pdb
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\obj\Debug\05-Caixa.AulaAspnet.Dados.csprojResolveAssemblyReference.cache
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\obj\Debug\Caixa.AulaAspnet.Dados.Migrations.AlteracaoDeContextoNoProjetoDados.resources
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\obj\Debug\05-Caixa.AulaAspnet.Dados.csproj.GenerateResource.Cache
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Dados\obj\Debug\Caixa.AulaAspnet.Dados.Migrations.AddForeignKeyParaTipoTelefoneEmTipoTelefone.resources

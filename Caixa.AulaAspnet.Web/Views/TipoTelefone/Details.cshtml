@@ -1,0 +1,26 @@
+﻿@model Caixa.AulaAspnet.Entidades.Modelos.TipoTelefone
+
+@{
+    ViewBag.Title = "Tipo de Telefone";
+}
+
+<h2>@ViewBag.Title - Detalhar</h2>
+
+<div>
+    <h4>TipoTelefone</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", null, new { id = Model.TipoTelefoneID }, new { @class="btn btn-primary"}) |
+    @Html.ActionLink("Voltar", "Index", null, new { @class="btn btn-default"})
+</p>

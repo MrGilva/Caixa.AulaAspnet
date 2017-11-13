@@ -1,0 +1,26 @@
+﻿@model Caixa.AulaAspnet.Entidades.Modelos.Cliente
+
+@{
+    ViewBag.Title = "Cliente";
+}
+
+<h3>@ViewBag.Title - Detalhar</h3>
+
+<hr />
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", null, new { id = Model.ClienteID }, new { @class="btn btn-primary" }) |
+    @Html.ActionLink("Voltar", "Index", null, new { @class="btn btn-default" })
+</p>

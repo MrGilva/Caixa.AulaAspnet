@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Caixa.AulaAspnet.Entidades.Modelos.Telefone>
+
+@{
+    ViewBag.Title = "Telefone";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<hr />
+
+<p>
+    @Html.ActionLink("Adicionar", "Create", null, new { @class="btn btn-primary" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TipoTelefone.Descricao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ddd)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipoTelefone.Descricao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ddd)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nome)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", null, new { id=item.TelefoneId }, new { @class="btn btn-primary" }) |
+            @Html.ActionLink("Detalhar", "Details", null, new { id=item.TelefoneId }, new { @class="btn btn-default" }) |
+            @Html.ActionLink("Deletar", "Delete", null, new { id=item.TelefoneId }, new { @class="btn btn-danger" })
+        </td>
+    </tr>
+}
+
+</table>

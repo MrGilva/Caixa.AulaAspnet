@@ -1,0 +1,9 @@
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Entidades\bin\Debug\Caixa.AulaAspnet.Entidades.dll
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Entidades\bin\Debug\Caixa.AulaAspnet.Entidades.pdb
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Entidades\obj\Debug\Caixa.AulaAspnet.Entidades.dll
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Entidades\obj\Debug\Caixa.AulaAspnet.Entidades.pdb
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Entidades\bin\Debug\Caixa.AulaAspnet.Entidades.dll.config
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Entidades\bin\Debug\EntityFramework.dll
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Entidades\bin\Debug\EntityFramework.SqlServer.dll
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Entidades\bin\Debug\EntityFramework.xml
+D:\AspNet\Projetos\Caixa.AulaAspnet\Caixa.AulaAspnet.Entidades\bin\Debug\EntityFramework.SqlServer.xml
